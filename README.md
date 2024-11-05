@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shubhgoyal.0312@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/he
+
+
 
 <!---
 Shubhgoyal-1/Shubhgoyal-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
